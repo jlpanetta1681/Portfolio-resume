@@ -7,7 +7,7 @@
     text-align: center;
 }
 
-body { background-image: url("/Media_299665_smxx.jpg");
+body { background-image: url("/images/4k-space-dust-and-stars-zr2bkdp23mdlytxq.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -16,12 +16,12 @@ body { background-image: url("/Media_299665_smxx.jpg");
 .intro {
     text-align: center;
 }
-.shortdesc {
-    color: whitesmoke;
-    margin-left: 75px; 
-    margin-right: 75px;
-}
 
+.shortdesc {
+    
+    margin-left: 75px; 
+    margin-right: 75px; 
+ }
 
 h2 {
     text-align: center;
@@ -30,7 +30,7 @@ h2 {
 
 p {
     font-size: 25px;
-    color: red;
+    color: whitesmoke;
     font-weight: 555;
     margin: 35px 35px;
    
@@ -56,11 +56,22 @@ p {
     border-radius: 15px;
 }
 
+h2 {
+    color: lightcyan;
+    font-size: 35px; 
+}
+
 li {
+    color: whitesmoke;   
     font-weight: 650;
     padding-top: 25px;
     font-size: 25px;
 
+}
+
+span {
+    color: whitesmoke;
+    font-size: 25px;;
 }
 
 
@@ -79,9 +90,13 @@ ul {
 }
 
 .logo1 {
+    font-size: 30px;
     padding-right: 10PX;
+    color: rgb(148, 7, 7);
 }
 
 .logo2 {
+    font-size: 30px;
     padding-left: 10px;
+    color: rgb(148, 7, 7);
 }
