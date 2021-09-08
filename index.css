@@ -2,7 +2,7 @@
 
 
 .heading {
-    color: rgb(5, 85, 9);
+    color: rgb(253, 253, 253);
     font-size: 1.5em;
     text-align: center;
 }
@@ -10,11 +10,18 @@
 body { background-image: url("/images/4k-space-dust-and-stars-zr2bkdp23mdlytxq.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; 
+    
 }
+
+
+
+    
+
 
 .intro {
     text-align: center;
+    background-color: hsl(hue, saturation, lightness);
 }
 
 .shortdesc {
