@@ -34,6 +34,15 @@ h2 {
     text-align: center;
 }
 
+.lambdalogo {
+  width: auto;
+}
+
+.school-name {
+    background-color: darkslateblue;
+    color: rgb(8, 218, 88);
+    font-weight: 555;
+}
 
 p {
     font-size: 25px;
