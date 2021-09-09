@@ -33,9 +33,16 @@ body { background-image: url("/images/4k-space-dust-and-stars-zr2bkdp23mdlytxq.j
 h2 {
     text-align: center;
 }
+.ed-container {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .lambdalogo {
-  width: auto;
+ max-width: 20%;
+ 
+
 }
 
 .school-name {
