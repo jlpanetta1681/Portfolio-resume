@@ -39,8 +39,9 @@ h2 {
     justify-content: center;
 }
 
-.lambdalogo {
- max-width: 20%;
+#lambdalogo {
+ 
+ margin: auto;
  
 
 }
